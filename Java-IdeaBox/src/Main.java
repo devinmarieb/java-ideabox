@@ -1,6 +1,19 @@
-public class Main {
+import java.util.Scanner;
 
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
+//public class Main {
+//    public static void main(String args[]) {
+//        double tree;
+//        tree = 5.25;
+//
+//        System.out.print("I want ");
+//        System.out.println(tree);
+//    }
+//}
+
+
+class Main {
+    public static void main(String args[]) {
+        Scanner devin = new Scanner(System.in);
+        System.out.println(devin.nextLine());
     }
 }
