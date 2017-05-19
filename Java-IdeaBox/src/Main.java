@@ -104,4 +104,23 @@ import java.util.Scanner;
 //                break;
 //        }
 //    }
-//}g
+//}
+
+//WHILE LOOP
+//class Main {
+//    public static void main(String args[]) {
+//        int counter = 0;
+//        while(counter < 10) {
+//            System.out.println(counter);
+//            counter++;
+//        }
+//    }
+//}
+
+//MULTIPLE CLASSES
+class Main {
+    public static void main(String[] args) {
+       Second secondObject = new Second();
+       secondObject.simpleMessage();
+    }
+}
