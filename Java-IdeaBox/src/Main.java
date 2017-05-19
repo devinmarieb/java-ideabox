@@ -55,3 +55,53 @@ import java.util.Scanner;
 //        System.out.println(+=tree);
 //    }
 //}
+
+//IF STATEMENT
+//class Main {
+//    public static void main(String args[]) {
+//        int test = 9;
+//        if(test == 8) {
+//            System.out.println("Yes");
+//        } else {
+//            System.out.println("No");
+//        }
+//    }
+//}
+
+//LOGICAL OPERATORS && ||
+//class Main {
+//    public static void main(String args[]) {
+//        int boy, girl;
+//        boy = 22;
+//        girl = 29;
+//
+//        if(boy > 18 && girl < 30) {
+//            System.out.println("You can enter");
+//        } else {
+//            System.out.println("You cannot enter");
+//        }
+//    }
+//}
+
+//SWITCH STATEMENT
+//class Main {
+//    public static void main(String args[]) {
+//        int age;
+//        age = 3;
+//
+//        switch(age) {
+//            case 1:
+//                System.out.println("You can crawl");
+//                break;
+//            case 2:
+//                System.out.println("You can talk");
+//                break;
+//            case 3:
+//                System.out.println("You can get in trouble");
+//                break;
+//            default:
+//                System.out.println("You can do everything");
+//                break;
+//        }
+//    }
+//}g
