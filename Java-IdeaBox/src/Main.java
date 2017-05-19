@@ -20,14 +20,28 @@ import java.util.Scanner;
 //}
 
 //CALCULATOR
-class Main {
-    public static void main(String args[]) {
-        Scanner devin = new Scanner(System.in);
-        double fnum, snum, answer;
-        System.out.println("Enter first number: ");
-        fnum = devin.nextDouble();
-        System.out.println("Enter second number: ");
-        snum = devin.nextDouble();
-        System.out.println(fnum + snum);
-    }
-}
+//class Main {
+//    public static void main(String args[]) {
+//        Scanner devin = new Scanner(System.in);
+//        double fnum, snum, answer;
+//        System.out.println("Enter first number: ");
+//        fnum = devin.nextDouble();
+//        System.out.println("Enter second number: ");
+//        snum = devin.nextDouble();
+//        answer = fnum + snum;
+//        System.out.println(answer);
+//    }
+//}
+
+//MATH OPERATORS + - * / %
+//class Main {
+//    public static void main(String args[]) {
+//        double girls, boys, people;
+//        girls = 7;
+//        boys = 3;
+//        people = girls / boys;
+//        System.out.println(people);
+//    }
+//}
+
+
