@@ -118,9 +118,22 @@ import java.util.Scanner;
 //}
 
 //MULTIPLE CLASSES
-class Main {
-    public static void main(String[] args) {
-       Second secondObject = new Second();
-       secondObject.simpleMessage();
-    }
-}
+//class Main {
+//    public static void main(String[] args) {
+//       Second secondObject = new Second();
+//       secondObject.simpleMessage();
+//    }
+//}
+
+//METHODS WITH PARAMETERS
+//class Main {
+//    public static void main(String args[]) {
+//        Scanner input = new Scanner(System.in);
+//        Second secondObject = new Second();
+//
+//        System.out.println("Enter name:");
+//        String name = input.nextLine();
+//
+//        secondObject.simpleMessage(name);
+//    }
+//}
