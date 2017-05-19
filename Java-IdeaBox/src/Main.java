@@ -44,4 +44,14 @@ import java.util.Scanner;
 //    }
 //}
 
-
+//INCREMENT VARIABLE
+//class Main {
+//    public static void main(String arg[]) {
+//        int tree = 5;
+//        int willow = 2;
+//        System.out.println(++tree);
+//        System.out.println(tree++);
+//        System.out.println(tree);
+//        System.out.println(+=tree);
+//    }
+//}
